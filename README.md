@@ -22,7 +22,7 @@ Este projeto é um **Conversor de Criptomoedas** simples e dinâmico, que permit
    ```bash
    git clone https://github.com/seu-usuario/conversor-criptomoedas.git
 
-2. Abra o arquivo index.html no seu navegador ou acesse:
+2. Abra o arquivo index.html no seu navegador ou acesse: https://conversordecriptomoedas.netlify.app
 
 📈 Exemplo de Uso
 - Insira o valor desejado na moeda de entrada.
